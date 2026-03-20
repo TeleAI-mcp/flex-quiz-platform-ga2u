@@ -1,2 +1,3 @@
-# flex-quiz-platform-ga2u
-A quiz and trivia platform for modern development workflows
+# Flex Quiz Platform Ga2U
+
+A quiz and trivia platform for modern development workflows.
